@@ -13,6 +13,7 @@ This project was an introduction video for Duke Dhamaka, Duke University’s pre
 
 ## $\textsf{\color{lightgreen} Editing Software Used}$
 - Adobe Premiere Pro
+- Panzoid
 - Adobe Photoshop
 
 ## $\textsf{\color{lightgreen} Cameras Used}$
